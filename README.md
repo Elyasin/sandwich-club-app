@@ -1,3 +1,6 @@
+A project I did for the Android Nanodegree by Udacity.
+
+
 # Sandwich Club Project Starter Code
 
 ## Project Overview
